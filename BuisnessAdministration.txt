@@ -1,0 +1,9 @@
+Time		Monday			Tuesday			Wednesday		Thursday		Friday
+8:00 AM		Structural Analysis	Structural Analysis	Surveying		Surveying		Surveying
+9:00 AM		Structural Analysis	Structural Analysis	Surveying		Surveying		Surveying
+10:00 AM	Break			Break			Break			Break			Break
+10:15 AM	Geotechnical Engineering	Geotechnical Engineering	Geotechnical Engineering	Geotechnical Engineering	Geotechnical Engineering
+11:15 AM	Geotechnical Engineering	Geotechnical Engineering	Geotechnical Engineering	Geotechnical Engineering	Geotechnical Engineering
+12:15 PM	Lunch			Lunch			Lunch			Lunch			Lunch
+1:15 PM		Environmental Engineering	Environmental Engineering	Environmental Engineering	Environmental Engineering	Environmental Engineering
+2:15 PM		Environmental Engineering	Environmental Engineering	Environmental Engineering	Environmental Engineering	Environmental Engineering

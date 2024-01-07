@@ -1,0 +1,41 @@
+Total: 3
+
+ID: 22F-0001
+Username: 22F-8759
+Name: Muhammad	Usman
+Gender: M
+Address:  Police Lines 
+Contact: +92-307-1371757
+Department:  Computer Science (CS) 
+Qualification:  Intermediate 
+RegistrationDate: 8/22/2022
+BloodGroup: B
+FeeStatus: P
+Marks: 3.25
+
+ID: 22F-0002
+Username: 22F-8811
+Name: Asad	Mehmood
+Gender: M
+Address: Johar Town
+Contact: 321-7849294
+Department:  Computer Science (CS) 
+Qualification:  Intermediate 
+RegistrationDate: 4/20/2022
+BloodGroup: A
+FeeStatus: U
+Marks: 2.25
+
+ID: 21F-0003
+Username: fatima1122
+Name: Fatima	Ali
+Gender: F
+Address:  Pindi 
+Contact: 302-1384621
+Department:  Electrical Engineering (EE) 
+Qualification:  Matric 
+RegistrationDate: 3/4/2021
+BloodGroup: O
+FeeStatus: P
+Marks: 3.6
+

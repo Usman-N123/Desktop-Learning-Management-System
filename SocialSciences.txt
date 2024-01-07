@@ -1,0 +1,9 @@
+Time		Monday			Tuesday			Wednesday		Thursday		Friday
+8:00 AM		Thermodynamics		Thermodynamics		Organic Chemistry	Organic Chemistry	Organic Chemistry
+9:00 AM		Thermodynamics		Thermodynamics		Organic Chemistry	Organic Chemistry	Organic Chemistry
+10:00 AM	Break			Break			Break			Break			Break
+10:15 AM	Mass Transfer Operations	Mass Transfer Operations	Mass Transfer Operations	Mass Transfer Operations	Mass Transfer Operations
+11:15 AM	Mass Transfer Operations	Mass Transfer Operations	Mass Transfer Operations	Mass Transfer Operations	Mass Transfer Operations
+12:15 PM	Lunch			Lunch			Lunch			Lunch			Lunch
+1:15 PM		Process Control		Process Control		Process Control		Process Control		Process Control
+2:15 PM		Process Control		Process Control		Process Control		Process Control		Process Control

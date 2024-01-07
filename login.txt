@@ -1,0 +1,15 @@
+hamza.akhtar 1234 a		 
+		 
+iqbal.ch	12345	t
+		 
+bandook.khan	b12k34	t
+		 
+saira.ijaz	s@ira123	t
+		 
+rabia.anum	rrr999	t		 
+		 
+22F-8759	3334	s
+		 
+22F-8811	123123	s
+		
+fatima1122	pola	s

@@ -1,0 +1,9 @@
+Time		Monday			Tuesday			Wednesday		Thursday		Friday
+8:00 AM		Physics			Physics			Mechanics		Mechanics		Mechanics
+9:00 AM		Physics			Physics			Mechanics		Mechanics		Mechanics
+10:00 AM	Break			Break			Break			Break			Break
+10:15 AM	Thermodynamics		Thermodynamics		Thermodynamics		Thermodynamics		Thermodynamics
+11:15 AM	Thermodynamics		Thermodynamics		Thermodynamics		Thermodynamics		Thermodynamics
+12:15 PM	Lunch			Lunch			Lunch			Lunch			Lunch
+1:15 PM		Materials Science	Materials Science	Materials Science	Materials Science	Materials Science
+2:15 PM		Materials Science	Materials Science	Materials Science	Materials Science	Materials Science

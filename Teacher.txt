@@ -1,0 +1,46 @@
+Total: 4
+
+ID: SE-0001
+Username: iqbal.ch
+Name: Iqbal	Chaudhary
+Gender: M
+Address:  P345, Mars 
+Contact: +92-321-1234567
+Department:  Software Engineering (SE) 
+Qualification:  Matric 
+RegistrationDate: 23/4/2021
+Salary: 250000
+
+ID: BA-0001
+Username: bandook.khan
+Name: Bandook	Khan
+Gender: M
+Address: Peshawar
+Contact: 321-3312323
+Department:  Buisness 
+Qualification: Masters (Buisness)
+RegistrationDate: 1/8/2004
+Salary: 90000
+
+ID: SE-0003
+Username: saira.ijaz
+Name: Saira	Ijaz
+Gender: F
+Address:  G12 Islamabad 
+Contact: 333-3333333
+Department:  Software Engineering (SE) 
+Qualification:  Phd Computer Science 
+RegistrationDate: 2/11/2020
+Salary: 180000
+
+ID: CS-0004
+Username: rabia.anum
+Name: Rabia	Anum
+Gender: F
+Address:  Islamabad 
+Contact: +92-311-1111122
+Department:  Computer Science (CS) 
+Qualification:  Master Computer Science 
+RegistrationDate: 3/1/2019
+Salary: 90000
+
